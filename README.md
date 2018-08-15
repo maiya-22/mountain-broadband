@@ -1,4 +1,4 @@
-Asked to redesign a website for a company that provides internet to the rural mountains.
+Assignment: To redesign a website for a company that provides internet to the rural mountains.
 
 Design strategy:
 
@@ -6,7 +6,7 @@ Design strategy:
 
 2. Since it is a utility, try to make the design conservative and solid. Communicate a sense of reliability.
 
-Original website:
+_Original website:_
 ![original site](github/mtn_broadband_original.png)
-First draft mockup of my redesign:
+_First draft mockup of my redesign:_
 ![mockup](github/mtn_broadband_mockup.png)
