@@ -7,6 +7,6 @@ Design strategy:
 2. Since it is a utility, try to make the design conservative and solid. Communicate a sense of reliability.
 
 Original website:
-![original site](github/mtn_broadband-original.png)
-First draft mockup of redesign:
+![original site](github/mtn_broadband_original.png)
+First draft mockup of my redesign:
 ![mockup](github/mtn_broadband_mockup.png)
